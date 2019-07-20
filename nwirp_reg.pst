@@ -1,0 +1,413 @@
+pcf
+* control data
+restart regularisation
+     158      53       4     158       6
+3  2 single  point 1   0   0
+10.0 -3.0  0.3  0.03  10 0 lamforgive
+5.0   5.0 0.001
+0.1   2   senreuse
+50  0.005  4  4  0.005  5
+1  1  1	1
+* singular value decomposition
+1
+43  5e-7
+0
+* sensitivity reuse
+0.15 -1
+3    -1.0 no
+* parameter groups
+Phk	relative    0.05	0.0	switch	2.0	parabolic
+Phani	relative    0.05	0.0	switch	2.0	parabolic
+k      relative    0.01        0.0     switch  2.0     parabolic
+Pvka	relative    0.05	0.0	switch	2.0	parabolic
+* parameter data
+kppu1 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu2 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu3 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu4 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu5 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu6 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu7 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu8 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu9 	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu10	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu11	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu12	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu13	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu14	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu15	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu16	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu17	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu18	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu19	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu20	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu21	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu22	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu23	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu24	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu25	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu26	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu27	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu28	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu29	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu30	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu31	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu32	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu33	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu34	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu35	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu36	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu37	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu38	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu39	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu40	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu41	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu42	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu43	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu44	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu45	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu46	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu47	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu48	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu49	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu50	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu51	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu52	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu53	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu54	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu55	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu56	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu57	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu58	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu59	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu60	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu61	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu62	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu63	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu64	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu65	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu66	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu67	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu68	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu69	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu70	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu71	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu72	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu73	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu74	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu75	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu76	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppu77	log	factor	0.003408	1.00E-10	1	phk	1	0	1
+kppl1	log	factor	1.7139E-06	1.00E-10	1	k	1	0	1
+kppl2	log	factor	6.4933E-06	1.00E-10	1	k	1	0	1
+kppl3	log	factor	4.3130E-06	1.00E-10	1	k	1	0	1
+kppl4	log	factor	8.2412E-07	1.00E-10	1	k	1	0	1
+kppl5	log	factor	7.0556E-07	1.00E-10	1	k	1	0	1
+kppl6	log	factor	2.1666E-07	1.00E-10	1	k	1	0	1
+kppl7	log	factor	2.2683E-07	1.00E-10	1	k	1	0	1
+kppl8	log	factor	1.0659E-06	1.00E-10	1	k	1	0	1
+kppl9	log	factor	4.6306E-06	1.00E-10	1	k	1	0	1
+kppl10	log	factor	4.3130E-06	1.00E-10	1	k	1	0	1
+kppl11	log	factor	3.7746E-06	1.00E-10	1	k	1	0	1
+kppl12	log	factor	1.0161E-06	1.00E-10	1	k	1	0	1
+kppl13	log	factor	3.7198E-07	1.00E-10	1	k	1	0	1
+kppl14	log	factor	2.2588E-07	1.00E-10	1	k	1	0	1
+kppl15	log	factor	7.3005E-07	1.00E-10	1	k	1	0	1
+kppl16	log	factor	5.2562E-06	1.00E-10	1	k	1	0	1
+kppl17	log	factor	6.4856E-06	1.00E-10	1	k	1	0	1
+kppl18	log	factor	2.3243E-06	1.00E-10	1	k	1	0	1
+kppl19	log	factor	1.2586E-06	1.00E-10	1	k	1	0	1
+kppl20	log	factor	1.0755E-07	1.00E-10	1	k	1	0	1
+kppl21	log	factor	1.7365E-07	1.00E-10	1	k	1	0	1
+kppl22	log	factor	7.3005E-07	1.00E-10	1	k	1	0	1
+kppl23	log	factor	5.4174E-07	1.00E-10	1	k	1	0	1
+kppl24	log	factor	6.4867E-06	1.00E-10	1	k	1	0	1
+kppl25	log	factor	1.2037E-06	1.00E-10	1	k	1	0	1
+kppl26	log	factor	6.0105E-07	1.00E-10	1	k	1	0	1
+kppl27	log	factor	2.3897E-08	1.00E-10	1	k	1	0	1
+kppl28	log	factor	1.0612E-07	1.00E-10	1	k	1	0	1
+kppl29	log	factor	1.2220E-06	1.00E-10	1	k	1	0	1
+kppl30	log	factor	4.0239E-07	1.00E-10	1	k	1	0	1
+kppl31	log	factor	1.2012E-06	1.00E-10	1	k	1	0	1
+kppl32	log	factor	5.8364E-07	1.00E-10	1	k	1	0	1
+kppl33	log	factor	2.5398E-06	1.00E-10	1	k	1	0	1
+kppl34	log	factor	2.9138E-08	1.00E-10	1	k	1	0	1
+kppl35	log	factor	5.3769E-08	1.00E-10	1	k	1	0	1
+kppl36	log	factor	1.2220E-06	1.00E-10	1	k	1	0	1
+kppl37	log	factor	7.3766E-07	1.00E-10	1	k	1	0	1
+kppl38	log	factor	4.9908E-06	1.00E-10	1	k	1	0	1
+kppl39	log	factor	2.3342E-07	1.00E-10	1	k	1	0	1
+kppl40	log	factor	6.2801E-08	1.00E-10	1	k	1	0	1
+kppl41	log	factor	5.4293E-09	1.00E-10	1	k	1	0	1
+kppl42	log	factor	3.5282E-08	1.00E-10	1	k	1	0	1
+kppl43	log	factor	1.2220E-06	1.00E-10	1	k	1	0	1
+kppl44	log	factor	9.1740E-07	1.00E-10	1	k	1	0	1
+kppl45	log	factor	2.1604E-05	1.00E-10	1	k	1	0	1
+kppl46	log	factor	1.7432E-07	1.00E-10	1	k	1	0	1
+kppl47	log	factor	2.3087E-08	1.00E-10	1	k	1	0	1
+kppl48	log	factor	6.3593E-09	1.00E-10	1	k	1	0	1
+kppl49	log	factor	3.5276E-08	1.00E-10	1	k	1	0	1
+kppl50	log	factor	2.7340E-07	1.00E-10	1	k	1	0	1
+kppl51	log	factor	1.4553E-07	1.00E-10	1	k	1	0	1
+kppl52	log	factor	1.0936E-06	1.00E-10	1	k	1	0	1
+kppl53	log	factor	5.2558E-08	1.00E-10	1	k	1	0	1
+kppl54	log	factor	1.4808E-07	1.00E-10	1	k	1	0	1
+kppl55	log	factor	1.7066E-08	1.00E-10	1	k	1	0	1
+kppl56	log	factor	2.3298E-08	1.00E-10	1	k	1	0	1
+kppl57	log	factor	2.5486E-07	1.00E-10	1	k	1	0	1
+kppl58	log	factor	9.0084E-08	1.00E-10	1	k	1	0	1
+kppl59	log	factor	9.6872E-09	1.00E-10	1	k	1	0	1
+kppl60	log	factor	1.3630E-06	1.00E-10	1	k	1	0	1
+kppl61	log	factor	3.9657E-07	1.00E-10	1	k	1	0	1
+kppl62	log	factor	2.6176E-08	1.00E-10	1	k	1	0	1
+kppl63	log	factor	3.5201E-08	1.00E-10	1	k	1	0	1
+kppl64	log	factor	1.3196E-06	1.00E-10	1	k	1	0	1
+kppl65	log	factor	2.3864E-07	1.00E-10	1	k	1	0	1
+kppl66	log	factor	1.7872E-07	1.00E-10	1	k	1	0	1
+kppl67	log	factor	3.1612E-07	1.00E-10	1	k	1	0	1
+kppl68	log	factor	2.3345E-07	1.00E-10	1	k	1	0	1
+kppl69	log	factor	1.0147E-08	1.00E-10	1	k	1	0	1
+kppl70	log	factor	4.0685E-08	1.00E-10	1	k	1	0	1
+kppl71	log	factor	1.6196E-06	1.00E-10	1	k	1	0	1
+kppl72	log	factor	2.8293E-07	1.00E-10	1	k	1	0	1
+kppl73	log	factor	3.7859E-07	1.00E-10	1	k	1	0	1
+kppl74	log	factor	2.2090E-07	1.00E-10	1	k	1	0	1
+kppl75	log	factor	2.0675E-07	1.00E-10	1	k	1	0	1
+kppl76	log	factor	1.5420E-09	1.00E-10	1	k	1	0	1
+kppl77	log	factor	4.0685E-08	1.00E-10	1	k	1	0	1
+hanilay1	log	factor	0.1488754	0.1	1000	phani	1	0	1
+hanilay2	log	factor	1.126924	0.01	100	phani	1	0	1
+vkalay1	log	factor	0.1062141	0.0001	10	pvka	1	0	1
+vkalay2	log	factor	9.58E-02	0.0001	10	pvka	1	0	1
+* observation groups
+HOBS
+TIME
+regul_phk
+regul_phani
+regul_k
+regul_pvka
+* observation data
+MW3-1           233.6543 10	HOBS
+MW3-2           232.6566 10	HOBS
+MW3-3           232.3015 10	HOBS
+MW3-4           232.4404 10	HOBS
+MW3-5           233.4701 10	HOBS
+MW3-6           234.1158 10	HOBS
+MW3-7           232.8260 10	HOBS
+MW3-8           232.3099 10	HOBS
+MW3-9           232.2902 10	HOBS
+MW3-10          234.7983 10	HOBS
+MW3-11          233.0317 10	HOBS
+MW3-12          232.9284 10	HOBS
+MW3-13          232.6505 10	HOBS
+MW3-14          232.0950 10	HOBS
+MW3-15          231.2309 10	HOBS
+MW3-16          231.7369 10	HOBS
+MW8-1           234.2197 10	HOBS
+MW8-2           234.0251 10	HOBS
+MW8-3           234.0330 10	HOBS
+MW8-4           233.6990 10	HOBS
+MW8-5           233.6967 10	HOBS
+MW8-6           233.8359 10	HOBS
+GAF-1           230.4888 10	HOBS
+GAF-2           232.2572 10	HOBS
+GAF-3           233.0945 10	HOBS
+GAF-4           235.2326 10	HOBS
+GAF-5           234.6427 10	HOBS
+GAF-6           234.5162 10	HOBS
+GAF-7           230.1694 10	HOBS
+GAF-8           230.0229 10	HOBS
+GAF-9           229.5505 10	HOBS
+AF0MW01         235.3461 10	HOBS
+AF0MW02         234.6482 10	HOBS
+AF0MW03         234.6257 10	HOBS
+AF0MW04         234.5392 10	HOBS
+MW1-3           210.8900 10	HOBS
+MW2-1           245.6000 10	HOBS
+MW2-4           241.1000 10	HOBS
+MW4-3           230.8900 10	HOBS
+MW5-1           243.6900 10	HOBS
+MW5-2           247.1000 10	HOBS
+MW7-1           247.1900 10	HOBS
+MW7-3           246.5000 10 HOBS
+M-1       		1.027E+07 00	TIME
+M-2       		8.346E+08 00	TIME
+L-1       		5.128E+06 00	TIME
+L-2       		1.480E+10 00	TIME
+G-1       		1.005E+07 00	TIME
+G-2       		2.435E+10 00	TIME
+S-1       		1.152E+06 00	TIME
+S-2       		2.308E+10 00	TIME
+H-1       		6.377E+06 00	TIME
+H-2       		1.327E+09 00	TIME
+* model command line
+RunPest.bat
+* model input/output
+hkvk2.tpl nwirp.upw
+hk_more.tpl  hk_more.pts
+hk_more2.tpl  hk_more2.pts
+nwirp_more.ins nwirp.hob_out
+timex.ins  nwirp.end
+* prior information
+kppu1         1.0 * log(kppu1) =  -2.467500      1.0 regul_phk
+kppu2         1.0 * log(kppu2) =  -2.467500      1.0 regul_phk
+kppu3         1.0 * log(kppu3) =  -2.467500      1.0 regul_phk
+kppu4         1.0 * log(kppu4) =  -2.467500      1.0 regul_phk
+kppu5         1.0 * log(kppu5) =  -2.467500      1.0 regul_phk
+kppu6         1.0 * log(kppu6) =  -2.467500      1.0 regul_phk
+kppu7         1.0 * log(kppu7) =  -2.467500      1.0 regul_phk
+kppu8         1.0 * log(kppu8) =  -2.467500      1.0 regul_phk
+kppu9         1.0 * log(kppu9) =  -2.467500      1.0 regul_phk
+kppu10        1.0 * log(kppu10) =  -2.467500      1.0 regul_phk
+kppu11        1.0 * log(kppu11) =  -2.467500      1.0 regul_phk
+kppu12        1.0 * log(kppu12) =  -2.467500      1.0 regul_phk
+kppu13        1.0 * log(kppu13) =  -2.467500      1.0 regul_phk
+kppu14        1.0 * log(kppu14) =  -2.467500      1.0 regul_phk
+kppu15        1.0 * log(kppu15) =  -2.467500      1.0 regul_phk
+kppu16        1.0 * log(kppu16) =  -2.467500      1.0 regul_phk
+kppu17        1.0 * log(kppu17) =  -2.467500      1.0 regul_phk
+kppu18        1.0 * log(kppu18) =  -2.467500      1.0 regul_phk
+kppu19        1.0 * log(kppu19) =  -2.467500      1.0 regul_phk
+kppu20        1.0 * log(kppu20) =  -2.467500      1.0 regul_phk
+kppu21        1.0 * log(kppu21) =  -2.467500      1.0 regul_phk
+kppu22        1.0 * log(kppu22) =  -2.467500      1.0 regul_phk
+kppu23        1.0 * log(kppu23) =  -2.467500      1.0 regul_phk
+kppu24        1.0 * log(kppu24) =  -2.467500      1.0 regul_phk
+kppu25        1.0 * log(kppu25) =  -2.467500      1.0 regul_phk
+kppu26        1.0 * log(kppu26) =  -2.467500      1.0 regul_phk
+kppu27        1.0 * log(kppu27) =  -2.467500      1.0 regul_phk
+kppu28        1.0 * log(kppu28) =  -2.467500      1.0 regul_phk
+kppu29        1.0 * log(kppu29) =  -2.467500      1.0 regul_phk
+kppu30        1.0 * log(kppu30) =  -2.467500      1.0 regul_phk
+kppu31        1.0 * log(kppu31) =  -2.467500      1.0 regul_phk
+kppu32        1.0 * log(kppu32) =  -2.467500      1.0 regul_phk
+kppu33        1.0 * log(kppu33) =  -2.467500      1.0 regul_phk
+kppu34        1.0 * log(kppu34) =  -2.467500      1.0 regul_phk
+kppu35        1.0 * log(kppu35) =  -2.467500      1.0 regul_phk
+kppu36        1.0 * log(kppu36) =  -2.467500      1.0 regul_phk
+kppu37        1.0 * log(kppu37) =  -2.467500      1.0 regul_phk
+kppu38        1.0 * log(kppu38) =  -2.467500      1.0 regul_phk
+kppu39        1.0 * log(kppu39) =  -2.467500      1.0 regul_phk
+kppu40        1.0 * log(kppu40) =  -2.467500      1.0 regul_phk
+kppu41        1.0 * log(kppu41) =  -2.467500      1.0 regul_phk
+kppu42        1.0 * log(kppu42) =  -2.467500      1.0 regul_phk
+kppu43        1.0 * log(kppu43) =  -2.467500      1.0 regul_phk
+kppu44        1.0 * log(kppu44) =  -2.467500      1.0 regul_phk
+kppu45        1.0 * log(kppu45) =  -2.467500      1.0 regul_phk
+kppu46        1.0 * log(kppu46) =  -2.467500      1.0 regul_phk
+kppu47        1.0 * log(kppu47) =  -2.467500      1.0 regul_phk
+kppu48        1.0 * log(kppu48) =  -2.467500      1.0 regul_phk
+kppu49        1.0 * log(kppu49) =  -2.467500      1.0 regul_phk
+kppu50        1.0 * log(kppu50) =  -2.467500      1.0 regul_phk
+kppu51        1.0 * log(kppu51) =  -2.467500      1.0 regul_phk
+kppu52        1.0 * log(kppu52) =  -2.467500      1.0 regul_phk
+kppu53        1.0 * log(kppu53) =  -2.467500      1.0 regul_phk
+kppu54        1.0 * log(kppu54) =  -2.467500      1.0 regul_phk
+kppu55        1.0 * log(kppu55) =  -2.467500      1.0 regul_phk
+kppu56        1.0 * log(kppu56) =  -2.467500      1.0 regul_phk
+kppu57        1.0 * log(kppu57) =  -2.467500      1.0 regul_phk
+kppu58        1.0 * log(kppu58) =  -2.467500      1.0 regul_phk
+kppu59        1.0 * log(kppu59) =  -2.467500      1.0 regul_phk
+kppu60        1.0 * log(kppu60) =  -2.467500      1.0 regul_phk
+kppu61        1.0 * log(kppu61) =  -2.467500      1.0 regul_phk
+kppu62        1.0 * log(kppu62) =  -2.467500      1.0 regul_phk
+kppu63        1.0 * log(kppu63) =  -2.467500      1.0 regul_phk
+kppu64        1.0 * log(kppu64) =  -2.467500      1.0 regul_phk
+kppu65        1.0 * log(kppu65) =  -2.467500      1.0 regul_phk
+kppu66        1.0 * log(kppu66) =  -2.467500      1.0 regul_phk
+kppu67        1.0 * log(kppu67) =  -2.467500      1.0 regul_phk
+kppu68        1.0 * log(kppu68) =  -2.467500      1.0 regul_phk
+kppu69        1.0 * log(kppu69) =  -2.467500      1.0 regul_phk
+kppu70        1.0 * log(kppu70) =  -2.467500      1.0 regul_phk
+kppu71        1.0 * log(kppu71) =  -2.467500      1.0 regul_phk
+kppu72        1.0 * log(kppu72) =  -2.467500      1.0 regul_phk
+kppu73        1.0 * log(kppu73) =  -2.467500      1.0 regul_phk
+kppu74        1.0 * log(kppu74) =  -2.467500      1.0 regul_phk
+kppu75        1.0 * log(kppu75) =  -2.467500      1.0 regul_phk
+kppu76        1.0 * log(kppu76) =  -2.467500      1.0 regul_phk
+kppu77        1.0 * log(kppu77) =  -2.467500      1.0 regul_phk
+kppl1         1.0 * log(kppl1) =  -5.766015      1.0 regul_k
+kppl2         1.0 * log(kppl2) =  -5.187535      1.0 regul_k
+kppl3         1.0 * log(kppl3) =  -5.365221      1.0 regul_k
+kppl4         1.0 * log(kppl4) =  -6.084010      1.0 regul_k
+kppl5         1.0 * log(kppl5) =  -6.151466      1.0 regul_k
+kppl6         1.0 * log(kppl6) =  -6.664221      1.0 regul_k
+kppl7         1.0 * log(kppl7) =  -6.644300      1.0 regul_k
+kppl8         1.0 * log(kppl8) =  -5.972284      1.0 regul_k
+kppl9         1.0 * log(kppl9) =  -5.334363      1.0 regul_k
+kppl10        1.0 * log(kppl10) =  -5.365221      1.0 regul_k
+kppl11        1.0 * log(kppl11) =  -5.423129      1.0 regul_k
+kppl12        1.0 * log(kppl12) =  -5.993064      1.0 regul_k
+kppl13        1.0 * log(kppl13) =  -6.429480      1.0 regul_k
+kppl14        1.0 * log(kppl14) =  -6.646122      1.0 regul_k
+kppl15        1.0 * log(kppl15) =  -6.136647      1.0 regul_k
+kppl16        1.0 * log(kppl16) =  -5.279328      1.0 regul_k
+kppl17        1.0 * log(kppl17) =  -5.188050      1.0 regul_k
+kppl18        1.0 * log(kppl18) =  -5.633708      1.0 regul_k
+kppl19        1.0 * log(kppl19) =  -5.900112      1.0 regul_k
+kppl20        1.0 * log(kppl20) =  -6.968390      1.0 regul_k
+kppl21        1.0 * log(kppl21) =  -6.760325      1.0 regul_k
+kppl22        1.0 * log(kppl22) =  -6.136647      1.0 regul_k
+kppl23        1.0 * log(kppl23) =  -6.266209      1.0 regul_k
+kppl24        1.0 * log(kppl24) =  -5.187976      1.0 regul_k
+kppl25        1.0 * log(kppl25) =  -5.919482      1.0 regul_k
+kppl26        1.0 * log(kppl26) =  -6.221089      1.0 regul_k
+kppl27        1.0 * log(kppl27) =  -7.621657      1.0 regul_k
+kppl28        1.0 * log(kppl28) =  -6.974203      1.0 regul_k
+kppl29        1.0 * log(kppl29) =  -5.912929      1.0 regul_k
+kppl30        1.0 * log(kppl30) =  -6.395353      1.0 regul_k
+kppl31        1.0 * log(kppl31) =  -5.920385      1.0 regul_k
+kppl32        1.0 * log(kppl32) =  -6.233855      1.0 regul_k
+kppl33        1.0 * log(kppl33) =  -5.595200      1.0 regul_k
+kppl34        1.0 * log(kppl34) =  -7.535540      1.0 regul_k
+kppl35        1.0 * log(kppl35) =  -7.269468      1.0 regul_k
+kppl36        1.0 * log(kppl36) =  -5.912929      1.0 regul_k
+kppl37        1.0 * log(kppl37) =  -6.132144      1.0 regul_k
+kppl38        1.0 * log(kppl38) =  -5.301830      1.0 regul_k
+kppl39        1.0 * log(kppl39) =  -6.631862      1.0 regul_k
+kppl40        1.0 * log(kppl40) =  -7.202033      1.0 regul_k
+kppl41        1.0 * log(kppl41) =  -8.265256      1.0 regul_k
+kppl42        1.0 * log(kppl42) =  -7.452447      1.0 regul_k
+kppl43        1.0 * log(kppl43) =  -5.912929      1.0 regul_k
+kppl44        1.0 * log(kppl44) =  -6.037441      1.0 regul_k
+kppl45        1.0 * log(kppl45) =  -4.665466      1.0 regul_k
+kppl46        1.0 * log(kppl46) =  -6.758653      1.0 regul_k
+kppl47        1.0 * log(kppl47) =  -7.636632      1.0 regul_k
+kppl48        1.0 * log(kppl48) =  -8.196591      1.0 regul_k
+kppl49        1.0 * log(kppl49) =  -7.452521      1.0 regul_k
+kppl50        1.0 * log(kppl50) =  -6.563201      1.0 regul_k
+kppl51        1.0 * log(kppl51) =  -6.837047      1.0 regul_k
+kppl52        1.0 * log(kppl52) =  -5.961141      1.0 regul_k
+kppl53        1.0 * log(kppl53) =  -7.279361      1.0 regul_k
+kppl54        1.0 * log(kppl54) =  -6.829504      1.0 regul_k
+kppl55        1.0 * log(kppl55) =  -7.767868      1.0 regul_k
+kppl56        1.0 * log(kppl56) =  -7.632681      1.0 regul_k
+kppl57        1.0 * log(kppl57) =  -6.593698      1.0 regul_k
+kppl58        1.0 * log(kppl58) =  -7.045352      1.0 regul_k
+kppl59        1.0 * log(kppl59) =  -8.013802      1.0 regul_k
+kppl60        1.0 * log(kppl60) =  -5.865504      1.0 regul_k
+kppl61        1.0 * log(kppl61) =  -6.401680      1.0 regul_k
+kppl62        1.0 * log(kppl62) =  -7.582097      1.0 regul_k
+kppl63        1.0 * log(kppl63) =  -7.453445      1.0 regul_k
+kppl64        1.0 * log(kppl64) =  -5.879558      1.0 regul_k
+kppl65        1.0 * log(kppl65) =  -6.622257      1.0 regul_k
+kppl66        1.0 * log(kppl66) =  -6.747827      1.0 regul_k
+kppl67        1.0 * log(kppl67) =  -6.500148      1.0 regul_k
+kppl68        1.0 * log(kppl68) =  -6.631806      1.0 regul_k
+kppl69        1.0 * log(kppl69) =  -7.993662      1.0 regul_k
+kppl70        1.0 * log(kppl70) =  -7.390566      1.0 regul_k
+kppl71        1.0 * log(kppl71) =  -5.790592      1.0 regul_k
+kppl72        1.0 * log(kppl72) =  -6.548321      1.0 regul_k
+kppl73        1.0 * log(kppl73) =  -6.421831      1.0 regul_k
+kppl74        1.0 * log(kppl74) =  -6.655804      1.0 regul_k
+kppl75        1.0 * log(kppl75) =  -6.684554      1.0 regul_k
+kppl76        1.0 * log(kppl76) =  -8.811916      1.0 regul_k
+kppl77        1.0 * log(kppl77) =  -7.390566      1.0 regul_k
+hanilay1      1.0 * log(hanilay1) = -0.8271771      1.0 regul_phani
+hanilay2      1.0 * log(hanilay2) =  5.1894628E-02  1.0 regul_phani
+vkalay1       1.0 * log(vkalay1) = -0.9738178      1.0 regul_pvka
+vkalay2       1.0 * log(vkalay2) =  -1.018634      1.0 regul_pvka
+* regularisation
+  1.0000000E-10  1.0500000E-10  0.1000000    
+ 1.0   1.0e-10    1.0e10
+ 1.3   1.0e-2     1
