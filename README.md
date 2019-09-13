@@ -1,7 +1,7 @@
 # NWIRP
 This github directory contains required model and PEST input files that has been explained on the draft of NWIRP article written by Ahmmed et. al. Anybody is encouraged to run the model and to verify the work. 
 # Model input files
-nwirp directory is for model input and accessory files
+nwirp_model_files directory is for model input and accessory files
 # Initial PEST input and record files
 1. nwirp_reg.pst 
 2. nwirp_reg.rec
