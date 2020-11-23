@@ -13,3 +13,8 @@ nwirp_cal.pst
 3. schur_rands_from_pyemu.txt contains parameters of schur realizations
 4. nsmc_real.txt contains parameters of NSMC realizations
 5. record.dat has total model calls by each NSMC simulation run for 1,000 realization (total model calls: 60,531)
+# Grid resolution check directory
+1. gridresolutioncheck.zip
+2. This directory consists of four different models
+3. Their sizes along X and Y dimensions are 100m, 50m, 25m, and 20m
+
